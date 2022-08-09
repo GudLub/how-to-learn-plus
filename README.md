@@ -6,3 +6,5 @@
 
 Hello, world!
 This is my first personal project with Yandex-Practicum, enjoy it if you can)
+
+https://gudlub.github.io/how-to-learn-plus/
