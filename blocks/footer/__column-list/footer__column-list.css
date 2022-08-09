@@ -1,0 +1,12 @@
+.footer__column-list {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer__column-list:last-child {
+  padding-bottom: 0;
+}
